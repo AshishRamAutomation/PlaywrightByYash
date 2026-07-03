@@ -35,7 +35,7 @@ class UnicornPagesPOM {
       data.UnicorndealPage.propertyType,
       data.UnicorndealPage.agentName
     );
-    await this.unicornManage.previewPage.validateBookingDate(this.unicornManage.page, data.dealPage.bookingDate, testInfo);
+    await this.unicornManage.previewPage.validateBookingDate(this.unicornManage.page, data.UnicorndealPage.bookingDate, testInfo);
   }
 }
 
