@@ -1,0 +1,26 @@
+
+{
+  "UnicornloginPage": {
+    "Unicornurl": "https://trainee-web-app.azurewebsites.net/auth/login",
+    "Unicornusername": "test@test.com",
+    "Unicornpassword": "test"
+  },
+  "UnicorndealPage": {
+    "propertyAddress": "Bhubaneswar",
+    "dealNumber": "1221112121",
+    "propertyType": "Residential Flat",
+    "transactionType": "Rent",
+    "loanAmount": "1000000",
+    "bookingDate": "06-20-2026",
+    "closingDate": "09-20-2026",
+    "agentName": "Rajeeb"
+  },
+  "BoxLoginPage": {
+    "BoxUrl": "https://app.box.com",
+    "Boxusername": "ashishram1808@gmail.com",
+    "Boxpassword": "testing123"
+  },
+  "BoxNotesPage": {
+    "NoteTitle": "Ashishnote"
+  }
+}
